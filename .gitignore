@@ -1,8 +1,9 @@
-﻿# All folders starting with _ are local.
+# All folders starting with _ are local.
 _*/
 
 # Compiled python files.
 *.py[cod]
+__pycache__/
 
 # Visual Studio files.
 /.vs

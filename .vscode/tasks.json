@@ -81,7 +81,7 @@
                 "command": "${workspaceRoot}${/}repo.bat"
             },
             "args": [
-                "test",
+                "test"
             ],
             "group": "none",
             "presentation": {
@@ -113,7 +113,7 @@
                 "command": "${workspaceRoot}${/}tools${/}packman${/}python.bat"
             },
             "args": [
-                "${workspaceRoot}${/}.vscode${/}template_builder.py",
+                "${workspaceRoot}${/}.vscode${/}template_builder.py"
             ],
             "group": "none",
             "presentation": {
